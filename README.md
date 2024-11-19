@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatya" alt="akshatya" /></a> </p>
 
-- 🌱 I’m currently learning **SMART CONTRACT**
-
-- 💬 Ask me about **C,C++ AND SOLIDITY**
-
 - 📫 How to reach me **akshaty961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
